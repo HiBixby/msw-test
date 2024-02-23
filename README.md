@@ -1,6 +1,10 @@
 # MSW 2.0 보일러플레이트 (React+TS+Vite환경)
 msw가 2.0이 되면서 문법이 많이 바뀌었는데 바뀐 문법으로 get과 post를 하는 코드입니다
 
+실행 방법
+`npm i`
+`npm run dev`
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
